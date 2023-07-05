@@ -63,13 +63,11 @@
  ```html
  <title> HTML 기본 문서 </html>
  ```
-![Alt text](image-1.png)
+ ![Alt text](image-1.png)
 
 ### 웹 브라우저에 내용을 표시하는 < body > 태그
-
-- < body > 영역에 실제 웹 브라우저에 표시할 내용을 입력한다.
-
-![Alt text](image-2.png)
+ - < body > 영역에 실제 웹 브라우저에 표시할 내용을 입력한다.
+ ![Alt text](image-2.png)
 
 ## 03-3 HTML 파일 만들기
 
@@ -85,7 +83,7 @@
 </body>
 </html>
 ```
-![Alt text](image-3.png)
+ ![Alt text](image-3.png)
 
 - ! + tab or ! + Enter: HTML의 기본 구조를 자동으로 입력하기
 
@@ -119,7 +117,7 @@
   </footer>
 </div>
 ```
-![Alt text](image-4.png)
+ ![Alt text](image-4.png)
 
 - 시맨틱 태그 사용 이유
  1. 웹 브라우저가 HTML의 소스 코드만 보고도 어느 부분이 제목이고 메뉴이고 본문 내용인지 쉽게 알 수 있기 때문
