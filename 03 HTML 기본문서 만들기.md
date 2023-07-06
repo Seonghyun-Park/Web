@@ -63,11 +63,13 @@
  ```html
  <title> HTML 기본 문서 </html>
  ```
- ![Alt text](image-1.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/cecf6248-e4bd-4475-9b5f-85fb6512987f)
+
 
 ### 웹 브라우저에 내용을 표시하는 < body > 태그
  - < body > 영역에 실제 웹 브라우저에 표시할 내용을 입력한다.
- ![Alt text](image-2.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/352a9ad8-31af-4482-abcb-20f38ed663c9)
+
 
 ## 03-3 HTML 파일 만들기
 
@@ -83,7 +85,8 @@
 </body>
 </html>
 ```
- ![Alt text](image-3.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/a9595dd6-fb8b-4386-87ad-5075e38a6902)
+
 
 - ! + tab or ! + Enter: HTML의 기본 구조를 자동으로 입력하기
 
@@ -117,7 +120,8 @@
   </footer>
 </div>
 ```
- ![Alt text](image-4.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/bf940898-c8e7-4727-b11d-d38a449da74a)
+
 
 - 시맨틱 태그 사용 이유
  1. 웹 브라우저가 HTML의 소스 코드만 보고도 어느 부분이 제목이고 메뉴이고 본문 내용인지 쉽게 알 수 있기 때문
@@ -149,7 +153,8 @@
       </nav>
     </header>
  ```
- ![Alt text](image-5.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/099320a3-7de4-4023-b2ce-f9c492f0c130)
+
 
 ### 핵심 콘텐츠를 담는 < main > 태그
  - 웹 문서에서 핵심이 되는 내용을 넣는다.
@@ -193,7 +198,8 @@
       </section>
     </main>
  ```
- ![Alt text](image-6.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/3f6f0a13-d8f3-4bfc-b701-fc1cb1619c1b)
+
 
 ### 사이드 바 영역을 나타내는 < aside > 태그
  - 본문 내용 외에 왼쪽이나 오른쪽, 혹은 아래쪽에 사이드 바를 만듭니다.
@@ -216,7 +222,8 @@
       </section>   
     </footer>
  ```
- ![Alt text](image-7.png)
+ ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/9efcdffa-4843-4440-ad27-6cfc70c85b20)
+
 
 ### 여러 소스를 묶는 < div > 태그
  - div (division)
