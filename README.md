@@ -1,4 +1,4 @@
-# Web
+# 🖥️ HTML + CSS + 자바스크립트 웹 표준의 정석
 
 <details>
 <summary> :file_folder: 01 웹 개발 시작하기 </summary>
