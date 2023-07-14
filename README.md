@@ -38,3 +38,12 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 05 입력 양식 작성하기 </summary>
+<div markdown="1">
+
+#### 🔖 [05-1 폼 삽입하기](https://github.com/Seonghyun-Park/Web/blob/main/05-1%20폼%20삽입하기.md)
+
+</div>
+</details>
