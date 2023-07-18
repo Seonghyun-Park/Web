@@ -45,5 +45,7 @@
 
 #### 🔖 [05-1 폼 삽입하기](https://github.com/Seonghyun-Park/Web/blob/main/05-1%20폼%20삽입하기.md)
 
+#### 🔖 [05-2 사용자 입력을 위한 input 태그](https://github.com/Seonghyun-Park/Web/blob/main/05-2%20사용자%20입력을%20위한%20input%20태그.md)
+
 </div>
 </details>
