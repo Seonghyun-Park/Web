@@ -55,3 +55,28 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 06 CSS의 기본 </summary>
+<div markdown="1">
+
+#### 🔖 [06-1 웹 문서에 디자인 입히기](https://github.com/Seonghyun-Park/Web/blob/main/06-1%20웹%20문서에%20디자인%20입히기.md)
+
+#### 🔖 [06-2 스타일과 스타일 시트](https://github.com/Seonghyun-Park/Web/blob/main/06-2%20스타일과%20스타일시트.md)
+
+#### 🔖 [06-3 CSS 기본 선택자 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/06-3%20CSS%20기본%20선택자%20알아보기.md)
+
+#### 🔖 [06-4 캐스케이딩 스타일 시트 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/06-4%20캐스케이딩%20스타일%20시트%20알아보기.md)
+
+#### 🔖 [06-5 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/06-5%20마무리문제.md)
+
+</div>
+</details>
+
+<details>
+<summary> :file_folder: 07 텍스트를 표현하는 다양한 스타일 </summary>
+<div markdown="1">
+
+</div>
+</details>
+
