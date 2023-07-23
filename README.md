@@ -77,6 +77,11 @@
 <summary> :file_folder: 07 텍스트를 표현하는 다양한 스타일 </summary>
 <div markdown="1">
 
+#### 🔖 [07-1 글꼴 관련 스타일](https://github.com/Seonghyun-Park/Web/blob/main/07-1%20글꼴%20관련%20스타일.md)
+
+#### 🔖 [07-2 웹 폰트 사용하기](https://github.com/Seonghyun-Park/Web/blob/main/07-2%20웹%20폰트%20사용하기.md)
+
+
 </div>
 </details>
 
