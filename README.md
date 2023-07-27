@@ -83,6 +83,12 @@
 
 #### 🔖 [07-3 텍스트 관련 스타일](https://github.com/Seonghyun-Park/Web/blob/main/07-3%20텍스트%20관련%20스타일.md)
 
+#### 🔖 [07-4 목록 스타일](https://github.com/Seonghyun-Park/Web/blob/main/07-4%20목록%20스타일.md)
+
+#### 🔖 [07-5 표 스타일](https://github.com/Seonghyun-Park/Web/blob/main/07-5%20표%20스타일.md)
+
+#### 🔖 [07-6 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/07-6%20마무리문제.md)
+
 </div>
 </details>
 
