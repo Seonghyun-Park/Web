@@ -81,6 +81,7 @@
 
 #### 🔖 [07-2 웹 폰트 사용하기](https://github.com/Seonghyun-Park/Web/blob/main/07-2%20웹%20폰트%20사용하기.md)
 
+#### 🔖 [07-3 텍스트 관련 스타일](https://github.com/Seonghyun-Park/Web/blob/main/07-3%20텍스트%20관련%20스타일.md)
 
 </div>
 </details>
