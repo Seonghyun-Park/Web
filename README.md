@@ -92,3 +92,14 @@
 </div>
 </details>
 
+<details>
+<summary> :file_folder: 08 레이아웃을 구성하는 CSS 박스 모델 </summary>
+<div markdown="1">
+
+#### 🔖 [08-1 CSS와 박스 모델](https://github.com/Seonghyun-Park/Web/blob/main/08-1%20CSS와%20박스모델.md)
+
+#### 🔖 [08-2 테두리 스타일 지정하기](https://github.com/Seonghyun-Park/Web/blob/main/08-2%20테두리%20스타일%20지정하기.md)
+
+</div>
+</details>
+
