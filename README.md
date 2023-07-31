@@ -100,6 +100,14 @@
 
 #### 🔖 [08-2 테두리 스타일 지정하기](https://github.com/Seonghyun-Park/Web/blob/main/08-2%20테두리%20스타일%20지정하기.md)
 
+#### 🔖 [08-3 여백을 조절하는 속성](https://github.com/Seonghyun-Park/Web/blob/main/08-3%20여백을%20조절하는%20속성.md)
+
+#### 🔖 [08-4 웹 문서의 레이아웃 만들기](https://github.com/Seonghyun-Park/Web/blob/main/08-4%20웹%20문서의%20레이아웃%20만들기.md)
+
+#### 🔖 [08-5 웹 요소의 위치 지정하기](https://github.com/Seonghyun-Park/Web/blob/main/08-5%20웹%20요소의%20위치%20지정하기.md)
+
+#### 🔖 [08-6 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/08-6%20마무리문제.md)
+
 </div>
 </details>
 
