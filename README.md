@@ -111,3 +111,17 @@
 </div>
 </details>
 
+<details>
+<summary> :file_folder: 09 이미지와 그러데이션 효과로 배경 꾸미기 </summary>
+<div markdown="1">
+
+#### 🔖 [09-1 배경색과 배경 범위 지정하기](https://github.com/Seonghyun-Park/Web/blob/main/09%20이미지와%20그라데이션%20효과로%20배경%20꾸미기/09-1%20배경색과%20배경%20범위%20지정하기.md)
+
+#### 🔖 [09-2 배경 이미지 지정하기](https://github.com/Seonghyun-Park/Web/blob/main/09%20이미지와%20그라데이션%20효과로%20배경%20꾸미기/09-2%20배경%20이미지%20지정하기.md)
+
+#### 🔖 [09-3 그러데이션 효과로 배경 꾸미기](https://github.com/Seonghyun-Park/Web/blob/main/09%20이미지와%20그라데이션%20효과로%20배경%20꾸미기/09-3%20그러데이션%20효과로%20배경%20꾸미기.md)
+
+#### 🔖 [09-4 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/09%20이미지와%20그라데이션%20효과로%20배경%20꾸미기/09-4%20마무리문제.md)
+
+</div>
+</details>
