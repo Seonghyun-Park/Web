@@ -125,3 +125,18 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 10 CSS 고급 선택자 </summary>
+<div markdown="1">
+
+#### 🔖 [10-1 연결 선택자](https://github.com/Seonghyun-Park/Web/blob/main/10%20CSS%20고급%20선택자/10-1%20연결%20선택자.md)
+
+#### 🔖 [10-2 속성 선택자](https://github.com/Seonghyun-Park/Web/blob/main/10%20CSS%20고급%20선택자/10-2%20속성%20선택자.md)
+
+#### 🔖 [10-3 가상 클래스와 가상 요소](https://github.com/Seonghyun-Park/Web/blob/main/)
+
+#### 🔖 [10-4 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/)
+
+</div>
+</details>
