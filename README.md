@@ -134,9 +134,9 @@
 
 #### 🔖 [10-2 속성 선택자](https://github.com/Seonghyun-Park/Web/blob/main/10%20CSS%20고급%20선택자/10-2%20속성%20선택자.md)
 
-#### 🔖 [10-3 가상 클래스와 가상 요소](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [10-3 가상 클래스와 가상 요소](https://github.com/Seonghyun-Park/Web/blob/main/10%20CSS%20고급%20선택자/10-3%20가상%20클래스와%20가상%20요소.md)
 
-#### 🔖 [10-4 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [10-4 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/10%20CSS%20고급%20선택자/10-4%20마무리%20문제.md)
 
 </div>
 </details>
