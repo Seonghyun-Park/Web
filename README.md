@@ -145,13 +145,13 @@
 <summary> :file_folder: 11 트랜지션과 애니메이션 </summary>
 <div markdown="1">
 
-#### 🔖 [11-1 변형 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [11-1 변형 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/11%20트랜지션과%20애니메이션.md/11-1%20변형%20알아보기.md)
 
-#### 🔖 [11-2 트랜지션 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [11-2 트랜지션 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/11%20트랜지션과%20애니메이션.md/11-2%20트랜지션%20알아보기.md)
 
-#### 🔖 [11-3 애니메이션 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [11-3 애니메이션 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/11%20트랜지션과%20애니메이션.md/11-3%20애니메이션%20알아보기.md)
 
-#### 🔖 [11-4 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [11-4 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/11%20트랜지션과%20애니메이션.md/11-4%20마무리문제.md)
 
 </div>
 </details>
