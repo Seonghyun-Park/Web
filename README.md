@@ -160,13 +160,13 @@
 <summary> :file_folder: 12 반응형 웹과 미디어 쿼리 </summary>
 <div markdown="1">
 
-#### 🔖 [12-1](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [12-1 반응형 웹 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/12%20반응형%20웹과%20미디어%20쿼리.md/12-1%20반응형%20웹%20알아보기.md)
 
-#### 🔖 [12-2](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [12-2 미디어 쿼리 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/12%20반응형%20웹과%20미디어%20쿼리.md/12-2%20미디어%20쿼리%20알아보기.md)
 
-#### 🔖 [12-3](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [12-3 그리드 레이아웃 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/12%20반응형%20웹과%20미디어%20쿼리.md/12-3%20그리드%20레이아웃%20알아보기.md)
 
-#### 🔖 [12-4](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [12-4 플렉스 박스 레이아웃](https://github.com/Seonghyun-Park/Web/blob/main/12%20반응형%20웹과%20미디어%20쿼리.md/12-4%20플렉스%20박스%20레이아웃%20알아보기.md)
 
 #### 🔖 [12-5](https://github.com/Seonghyun-Park/Web/blob/main/)
 
