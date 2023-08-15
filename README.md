@@ -172,3 +172,18 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 13 자바스크립트와 첫 만남 </summary>
+<div markdown="1">
+
+#### 🔖 [13-1 자바스크립트로 무엇을 할까](https://github.com/Seonghyun-Park/Web/blob/main/13%20자바스크립트와%20첫%20만남/13-1%20자바스크립트로%20무엇을%20할까.md)
+
+#### 🔖 [13-2 웹 브라우저가 자바스크립트를 만났을 ](https://github.com/Seonghyun-Park/Web/blob/main/13%20자바스크립트와%20첫%20만남/13-2%20웹%20브라우저가%20자바스크립트를%20만났을%20때.md)
+
+#### 🔖 [13-3 자바스크립트 용어와 기본 입출력 방](https://github.com/Seonghyun-Park/Web/blob/main/13%20자바스크립트와%20첫%20만남/13-3%20자바스크립트%20용어와%20기본%20입출력%20방법.md)
+
+#### 🔖 [13-4 자바스크립트 스타일 가이드](https://github.com/Seonghyun-Park/Web/blob/main/13%20자바스크립트와%20첫%20만남/13-4%20자바스크립트%20스타일%20가이드.md)
+
+</div>
+</details>
