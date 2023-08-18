@@ -187,3 +187,32 @@
 
 </div>
 </details>
+
+<summary> :file_folder: 14 자바스크립트 기본 문법 </summary>
+<div markdown="1">
+
+#### 🔖 [14-1 변수 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/14%20자바스크립트%20기본%20문법/14-1%20변수%20알아보기.md)
+
+#### 🔖 [14-2 자료형 이해하기](https://github.com/Seonghyun-Park/Web/blob/main/14%20자바스크립트%20기본%20문법/14-2%20자료형%20이해하기.md)
+
+#### 🔖 [14-3 연산자 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/14%20자바스크립트%20기본%20문법/14-3%20연산자%20알아보기.md)
+
+#### 🔖 [14-4 조건문 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/14%20자바스크립트%20기본%20문법/14-4%20조건문%20알아보기.md)
+
+#### 🔖 [14-5 반복문 알아보기](https://github.com/Seonghyun-Park/Web/blob/main/14%20자바스크립트%20기본%20문법/14-5%20반복문%20알아보기.md)
+
+#### 🔖 [14-6 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/14%20자바스크립트%20기본%20문법/14-6%20마무리문제.md)
+
+</div>
+</details>
+
+</div>
+</details>
+
+<summary> :file_folder: 15 함수와 이벤트 </summary>
+<div markdown="1">
+
+#### 🔖 [](https://github.com/Seonghyun-Park/Web/blob/main/)
+
+</div>
+</details>
