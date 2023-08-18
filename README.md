@@ -188,6 +188,7 @@
 </div>
 </details>
 
+<details>
 <summary> :file_folder: 14 자바스크립트 기본 문법 </summary>
 <div markdown="1">
 
@@ -206,9 +207,7 @@
 </div>
 </details>
 
-</div>
-</details>
-
+<details>
 <summary> :file_folder: 15 함수와 이벤트 </summary>
 <div markdown="1">
 
