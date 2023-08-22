@@ -117,32 +117,32 @@
 
  ```html
   <fieldset>
-      <legend>상품 선택</legend>
-      <p><b>주문할 상품을 선택해 주세요.</b></p>
-      <ul>
-        <li>
-          <label><input type="checkbox" value="s_3">선물용 3kg</label>
-          <input type="number">개 <!--number: 숫자를 조절할 수 있는 스핀 박스 삽입 -->
-        </li>
-        <li>
-          <label><input type="checkbox" value="s_5">선물용 5kg</label>
-          <input type="number">개
-        </li>
-        <li>
-          <label><input type="checkbox" value="f_3">가정용 3kg</label>
-          <input type="number">개
-        </li>
-        <li>
-          <label><input type="checkbox" value="f_5">가정용 5kg</label>
-          <input type="number">개
-        </li>
-      </ul>   
-      <p><b>포장 선택</b></p>
-      <ul>
-        <li><label><input type="radio" name="gift" value="yes" >선물 포장</label></li>
-        <li><label><input type="radio" name="gift" value="no">선물 포장 안 함</label></li>
-      </ul>     
-    </fieldset>
+    <legend>상품 선택</legend>
+    <p><b>주문할 상품을 선택해 주세요.</b></p>
+    <ul>
+      <li>
+        <label><input type="checkbox" value="s_3">선물용 3kg</label>
+        <input type="number">개 <!--number: 숫자를 조절할 수 있는 스핀 박스 삽입 -->
+      </li>
+      <li>
+        <label><input type="checkbox" value="s_5">선물용 5kg</label>
+        <input type="number">개
+      </li>
+      <li>
+        <label><input type="checkbox" value="f_3">가정용 3kg</label>
+        <input type="number">개
+      </li>
+      <li>
+        <label><input type="checkbox" value="f_5">가정용 5kg</label>
+        <input type="number">개
+      </li>
+    </ul>   
+    <p><b>포장 선택</b></p>
+    <ul>
+      <li><label><input type="radio" name="gift" value="yes" >선물 포장</label></li>
+      <li><label><input type="radio" name="gift" value="no">선물 포장 안 함</label></li>
+    </ul>     
+  </fieldset>
  ```
  ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/1c436090-d73b-4815-b55d-762ac11a0a71)
    
@@ -150,37 +150,37 @@
 
 ```html
 <fieldset>
-        <legend>사용자 정보</legend>
-        <ul>
-          <li>
-            <label for="uid">아이디</label>
-            <input type="text" id="uid">
-          </li>
-          <li>
-            <label for="umail">이메일</label>
-            <input type="email" id="umail">
-          </li>
-          <li>
-            <label for="pwd1">비밀번호</label>
-            <input type="password" id="pwd1">
-          </li>
-          <li>
-            <label for="pwd2">비밀번호 확인</label>
-            <input type="password" id="pwd2">
-          </li>
-        </ul>
-      </fieldset>
-      <fieldset>
-        <legend>이벤트와 새로운 소식</legend>
-        <input type="radio" name="mailing" id="mailing_y">
-        <label for="mailing_y">메일 수신</label>
-        <input type="radio" name="mailing" id="mailing_n" checked>
-        <label for="mailing_n">메일 수신 안 함</label>
-      </fieldset>
-      <div id="buttons">
-        <input type="submit" value="가입하기">
-        <input type="reset" value="취소">
-      </div>
+   <legend>사용자 정보</legend>
+   <ul>
+     <li>
+       <label for="uid">아이디</label>
+       <input type="text" id="uid">
+     </li>
+     <li>
+       <label for="umail">이메일</label>
+       <input type="email" id="umail">
+     </li>
+     <li>
+       <label for="pwd1">비밀번호</label>
+       <input type="password" id="pwd1">
+     </li>
+     <li>
+       <label for="pwd2">비밀번호 확인</label>
+       <input type="password" id="pwd2">
+     </li>
+   </ul>
+ </fieldset>
+ <fieldset>
+   <legend>이벤트와 새로운 소식</legend>
+   <input type="radio" name="mailing" id="mailing_y">
+   <label for="mailing_y">메일 수신</label>
+   <input type="radio" name="mailing" id="mailing_n" checked>
+   <label for="mailing_n">메일 수신 안 함</label>
+ </fieldset>
+ <div id="buttons">
+   <input type="submit" value="가입하기">
+   <input type="reset" value="취소">
+ </div>
 ```
 ![image](https://github.com/Seonghyun-Park/Web/assets/121333241/ff898cf7-bf99-482f-a9c1-d19482cf63eb)
 
