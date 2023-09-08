@@ -217,13 +217,15 @@
 
 #### 🔖 [15-3 let와 const의 특징](https://github.com/Seonghyun-Park/Web/blob/main/15%20함수와%20이벤트/15-3%20let와%20const의%20등장.md)
 
-#### 🔖 [](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [15-4 재사용할 수 있는 함수 만들](https://github.com/Seonghyun-Park/Web/blob/main/15%20함수와%20이벤트/15-4%20재사용할%20수%20있는%20함수%20만들기.md)
 
-#### 🔖 [](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [15-5 함수 표현식](https://github.com/Seonghyun-Park/Web/blob/main/15%20함수와%20이벤트/15-5%20함수%20표현식.md)
 
-#### 🔖 [](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [15-6 이벤트와 이벤트 처리기](https://github.com/Seonghyun-Park/Web/blob/main/15%20함수와%20이벤트/15-6%20이벤트와%20이벤트%20처리기.md)
 
-#### 🔖 [](https://github.com/Seonghyun-Park/Web/blob/main/)
+#### 🔖 [15-7 DOM을 이용한 이벤트 처리기](https://github.com/Seonghyun-Park/Web/blob/main/15%20함수와%20이벤트/15-7%20DOM을%20이용한%20이벤트%20처리기.md)
+
+#### 🔖 [15-8 마무리 문제](https://github.com/Seonghyun-Park/Web/blob/main/15%20함수와%20이벤트/마무리문제.md)
 
 </div>
 </details>
